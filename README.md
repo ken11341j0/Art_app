@@ -68,3 +68,7 @@ SNSでの宣伝を計画しています。
 
 - **ハイライト動画作成機能** → streamio-ffmpegジェムを使用
 - **Twitter（X）投稿機能** → Twitter APIを使用
+
+## 画面推移図
+Figma：
+https://www.figma.com/file/F9kowRIeeOuyl7l19CiRbg/Art_APP?type=design&node-id=0%3A1&mode=design&t=HGomBTGKIEhfoN0M-1
