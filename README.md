@@ -71,4 +71,4 @@ SNSでの宣伝を計画しています。
 
 ## 画面推移図
 Figma：
-https://www.figma.com/file/F9kowRIeeOuyl7l19CiRbg/Art_APP?type=design&node-id=0-1&mode=design&t=lM2imLY6nSFtLTTg-0
+https://www.figma.com/file/F9kowRIeeOuyl7l19CiRbg/Art_APP?type=design&node-id=0%3A1&mode=design&t=HGomBTGKIEhfoN0M-1
